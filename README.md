@@ -1,6 +1,6 @@
 # **Simplified Binary Tree of Boolean Function**
 
-## Assignment for "Software Engineering" at Imperial College London department of Electrical and Electronic Engineering.
+## Assignment for "Algorithms and Data Structures" at Imperial College London department of Electrical and Electronic Engineering.
 
 ---
 
