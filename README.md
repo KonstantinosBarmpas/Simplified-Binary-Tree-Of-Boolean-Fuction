@@ -23,7 +23,6 @@ The purpose of the assignment is to build a simplified binary tree of a boolean 
 "The aim of the course is to introduce the basic principles of data structures and efficient algorithm techniques."
 [[EE2: Algorithms and Data Structures](http://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=EE1-07&s=I1)]
 
-
 ---
 
 
